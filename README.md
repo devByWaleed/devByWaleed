@@ -1,4 +1,4 @@
-![logo](https://github.com/devByWaleed/devByWaleed/blob/main/Frontend%20Developer%20Banner.png)
+![logo](https://github.com/devByWaleed/devByWaleed/blob/main/freelance_banner.png)
 
 <h1 align="center">Hi 👋, I'm Waleed Ahmed</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
