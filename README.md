@@ -93,14 +93,14 @@ I’m currently improving my skills in **React, Tailwind CSS, and modern JavaScr
 I’m open to **freelance projects** and **collaborations** on web development.  
 Let’s work together to build something impactful and creative 🌟  
 
-📫 Reach me at: **waleed.cool1857@gmail.com**
+📫 Reach me at: **waleeddev91@gmail.com**
 
 ---
 
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="mailto:waleed.cool1857@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:waleeddev91@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/waleed-webdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/profile/waleed_dev404"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
   <a href="https://leetcode.com/u/solveWithWaleed/"><img src="https://img.shields.io/badge/LeetCode-F8A222?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
