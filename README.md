@@ -11,7 +11,7 @@
 
 ### ✨ About Me
 
-Hi! I'm **Waleed Ahmed**, a **Frontend Developer & Freelancer from Pakistan 🇵🇰**.  
+Hi! I'm **Waleed Ahmad**, a **Frontend Developer & Freelancer from Pakistan 🇵🇰**.  
 I specialize in creating **responsive websites, interactive UIs, and optimized user experiences**.  
 I’m currently improving my skills in **React, Tailwind CSS, and modern JavaScript frameworks** to deliver scalable and professional web solutions.  
 
